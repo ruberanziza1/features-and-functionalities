@@ -1,3 +1,5 @@
+Documenting Project Features and Functionalities
+
 Airbnb Project - Features and Functionalities
 Overview
 This document outlines the key features and functionalities of the ALX Airbnb clone project, providing a comprehensive guide to the application's capabilities and user experience design.
